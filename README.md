@@ -2,4 +2,4 @@
 
 Usage:
 
-python PostcodeFinder.py -i <input csv file> -o <output csv file> -l <number of rows>
+python PostcodeFinder.py -i [input csv file] -o [output csv file] -l [number of rows]
