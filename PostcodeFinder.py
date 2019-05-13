@@ -2,7 +2,7 @@ import urllib.request
 import json
 import argparse
 import codecs
-key = "AIzaSyCbBq87dATXX-DQ8P98txk0ZCrxzwakhlQ"
+key = "<Minha Chave>"
 def find_postal_code(str):
     # Getting data
     url = "https://maps.googleapis.com/maps/api/geocode/json?address="+urllib.parse.quote(str)+"&key="+key
